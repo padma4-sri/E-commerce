@@ -1,0 +1,57 @@
+{
+    "person": [
+        {   "id":1,
+            "name": "sectional sofa",
+            "price": 70,
+            "category":"sofa",
+            "rating":4.5,
+            "img":"shofa.jpg"
+
+
+        }, 
+        {   "id":2,
+            "name": "season sofa",
+            "price": 80,
+            "category":"sofa",
+            "rating":4.9,
+            "img":"sofa.jpg"
+
+
+        },   
+        {   "id":3,
+            "name": "modern sofa",
+            "price": 70,
+            "category":"sofa",
+            "rating":3.5,
+            "img":"shofa.jpg"
+
+
+        },   
+        {   "id":4,
+            "name": "plain sofa",
+            "price": 70,
+            "category":"sofa",
+            "rating":3.5,
+            "img":"shofa.jpg"
+
+
+        },   
+        {   "id":5,
+            "name": "handmade sofa",
+            "price": 70,
+            "category":"sofa",
+            "rating":3.5,
+            "img":"shofa.jpg"
+
+
+        },   
+        {   "id":6,
+            "name": "cuison sofa",
+            "price": 70,
+            "category":"sofa",
+            "rating":3.5,
+            "img":"shofa.jpg"
+
+
+        }     ]
+}
